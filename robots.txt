@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://Mirrur-Lin.github.io/sitemap.xml 
